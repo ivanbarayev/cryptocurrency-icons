@@ -1,1 +1,15 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path fill="url(#paint0_linear)" d="M0 0h18v18H0z"/><path d="M6.524 5h4.732l-1.33 3H7.575L5.38 13H3l3.524-8z" fill="#F40306"/><path d="M11.517 13H6.744l1.33-3h2.352l2.193-5H15l-3.483 8z" fill="#396AFF"/><defs><linearGradient id="paint0_linear" x1="3.349" y1="3.122" x2="21.904" y2="24.434" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1E21"/><stop offset="1" stop-color="#06060A"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FF0201;}
+	.st2{fill:#125BFF;}
+</style>
+<g id="Layer_x0020_1">
+	<rect y="0" class="st0" width="2500" height="2500"></rect>
+	<g id="_1939554051360">
+		<polygon id="polygon11576" class="st1" points="499,249.5 0,2250.5 500.1,2250.5 812.1,999.4 1312.7,999.4 1499.8,249.5     999.1,249.5   "></polygon>
+		<polygon id="polygon11578" class="st2" points="2500,249.5 1999.9,249.5 1812.8,999.4 1687.9,1500.1 1187.8,1500.1 1000.8,2250.5     1500.9,2250.5 2001,2250.5 2312.9,999.4   "></polygon>
+	</g>
+</g>
+</svg>

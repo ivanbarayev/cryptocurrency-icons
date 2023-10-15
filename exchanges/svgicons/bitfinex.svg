@@ -1,1 +1,14 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="#1A324F" d="M0 0h18v18H0z"/><path d="M5.002 10.185c-.067-2.208 1.45-5.332 7.981-5.18.104 1.934-.194 6.235-3.253 7.588-2.164.958-3.583.055-4.295-.962.776.029 2.784-.392 4.606-2.303 1.821-1.91 2.612-3.61 2.942-4.323-2.894 4.055-6.068 5.31-7.98 5.18Z" fill="#03CA9B"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#03CA9B;}
+</style>
+<g id="Layer_x0020_1">
+	<rect y="0" class="st0" width="2500" height="2500"></rect>
+	<g id="_2497851756656">
+		<path class="st1" d="M1.8,1634.8c-20-351,129.7-752.2,429-1053.1C1099.2-90.3,2475.9,10,2485.9,10    c0,10-1017.6,1484.4-2214.8,1614.7C191.3,1634.8,91.6,1634.8,1.8,1634.8L1.8,1634.8z"></path>
+		<path class="st1" d="M151.4,2086.1c29.9,50.1,69.8,110.3,119.7,150.4c409,411.2,1147.3,331,1656.1-170.5    C2585.7,1404.1,2495.9,0,2495.9,0c0,10-728.3,1644.8-1885.6,1995.8C460.7,2056,301.1,2076.1,151.4,2086.1L151.4,2086.1    L151.4,2086.1z"></path>
+	</g>
+</g>
+</svg>

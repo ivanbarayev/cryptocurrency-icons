@@ -1,1 +1,16 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path fill="url(#anaun0iao)" d="M0 0h18v18H0z"/><path d="M8.97 4 6.21 6.99H8l1.2 1.31H6.64L8.99 11h-1.8a.32.32 0 0 1-.23-.1l-2.8-3.03A.64.64 0 0 1 4.19 7l2.83-2.9c.06-.07.14-.1.23-.1h1.73Zm.06 3 2.47 2.7H8.75l1.27 1.3h1.63l-2.64 3h1.8c.08 0 .17-.04.23-.1l2.8-3.03a.64.64 0 0 0-.02-.87l-2.83-2.9a.32.32 0 0 0-.23-.1H9.03Z" fill="#fff"/><defs><linearGradient id="anaun0iao" x1="-.8" y1="9" x2="20.26" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="#3997AB"/><stop offset="1" stop-color="#3080C3"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#1DA2B4;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="Layer_x0020_1">
+	<g id="_2806038301888">
+		<circle class="st0" cx="1250" cy="1250" r="1250"></circle>
+		<g>
+			<path class="st1" d="M925,415c22-24,54-37,86-37h212c27,0,41,32,22,51L826,876h231l235,249H826l466,499h-282c-33,0-64-14-86-37     l-473-506c-42-45-42-115,0-160l473-506H925z"></path>
+			<path class="st1" d="M1575,2085c-22,24-54,37-86,37h-212c-27,0-41-32-22-51l419-447h-231l-235-249h466l-466-499h282     c33,0,64,14,86,37l473,506c42,45,42,115,0,160l-473,506H1575z"></path>
+		</g>
+	</g>
+</g>
+</svg>

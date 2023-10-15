@@ -1,1 +1,14 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path fill="url(#paint0_linear)" d="M0 0h18v18H0z"/><path d="M10.35 5.693c0-1.723-.84-3.204-1.48-3.687-.002-.001-.048-.027-.044.041l-.001.003c-.053 3.326-1.753 4.228-2.688 5.442-2.157 2.803-.151 5.876 1.892 6.444 1.143.318-.264-.562-.445-2.421-.22-2.247 2.765-3.962 2.765-5.822z" fill="#D7E2F2"/><path d="M11.33 6.826c-.014-.01-.032-.015-.045.006-.035.419-.463 1.315-1.006 2.137-1.84 2.79-.79 4.135-.201 4.857.342.42 0 0 .855-.428.067-.034 1.67-.932 1.843-2.978.168-1.982-1.023-3.231-1.447-3.594z" fill="#357CE1"/><defs><linearGradient id="paint0_linear" x1="3.349" y1="3.122" x2="21.904" y2="24.434" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1E21"/><stop offset="1" stop-color="#06060A"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0066ED;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Layer_x0020_1">
+	<g id="_1704856852608">
+		<circle class="st0" cx="1250" cy="1250" r="1250"></circle>
+		<path class="st1" d="M1041,1724c4-396,425-479,378-912c-14-124-74-272-196-390c-6-6-17-1-16,8c37,397-243,585-369,751    c-279,367-74,838,340,900c9,1,15-10,8-16C1101,1981,1041,1874,1041,1724L1041,1724L1041,1724z"></path>
+		<path class="st1" d="M1582,1090c-6-5-14-2-16,5c-10,51-42,136-144,284c-265,384-137,555-21,684c26,30,13-7,67-44    c73-51,104-57,173-118c79-79,143-203,149-329C1803,1298,1642,1142,1582,1090L1582,1090z"></path>
+	</g>
+</g>
+</svg>
